@@ -4,14 +4,18 @@ Desafio para Backend Developer da Coodesh
 Nesse desafio foi desenvolvido uma REST API que utilizará o histórico de casos de Covid, disponível no Kaggle. 
 https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
 
-# Banco de Dados utilizado:
+# Banco de Dados utilizado
 
   Mysql
   
   * A aplicação é responsável por criar a tabela e alimenta-la com os dados disponíveis no arquivo '.csv' da Kaggle.
+
+# Tecnologias utilizadas
+
+  Node.js | Knex.js | Express | Mysql
   
 
-# Rotas:
+# Rotas
 
   [GET]/: Retornar um Status: 200 e uma Mensagem "Backend Challenge 2021 🏅 - Covid Daily Cases"
 
