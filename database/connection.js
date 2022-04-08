@@ -1,10 +1,10 @@
 var knex = require("knex")({
   client: "mysql2",
   connection: {
-    host: "127.0.0.1",
-    user: "root",
-    password: "Quit7@7@",
-    database: "covid_cases",
+    host: "wb39lt71kvkgdmw0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    user: "wq2wo79f8v3xlai7",
+    password: "t2v8dvrzj8do7eps",
+    database: "gyzwx5dqrsidtj9o",
   },
 });
 
